@@ -118,7 +118,7 @@
             android:hint="CorrectOption"
             android:inputType="textPersonName"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/saveB"
+
             app:layout_constraintHorizontal_bias="0.364"
             app:layout_constraintStart_toStartOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
